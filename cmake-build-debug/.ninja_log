@@ -1,0 +1,27 @@
+# ninja log v5
+1	156	1715013692677716646	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+1	12	1715013808976248207	build.ninja	c48d2bc8497579da
+1	121	1715013766456784879	CMakeFiles/AccelCompute.dir/MatrixAccel/main.cpp.o	45afd8bc2e5375aa
+0	8	1715013692529718516	CMakeFiles/AccelCompute.dir/MatrixAccel/demo.cpp.o	9d636285729b1492
+0	125	1715013692649717000	CMakeFiles/AccelCompute.dir/main.cpp.o	245eb754666986f4
+0	11	1715013808976248207	build.ninja	c48d2bc8497579da
+1	133	1715013809112246490	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+133	168	1715013809144246087	AccelCompute	2d95d0c466e46b55
+0	123	1715013820512102640	CMakeFiles/AccelCompute.dir/MatrixAccel/main.cpp.o	45afd8bc2e5375aa
+123	158	1715013820548102185	AccelCompute	2d95d0c466e46b55
+0	133	1715014008443825337	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+1	126	1715014042130510667	CMakeFiles/AccelCompute.dir/MatrixAccel/main.cpp.o	45afd8bc2e5375aa
+1	162	1715014042166509288	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+162	200	1715014042206507755	AccelCompute	2d95d0c466e46b55
+1	147	1715014117527732518	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+147	186	1715014117563731242	AccelCompute	2d95d0c466e46b55
+0	124	1715014161106220572	CMakeFiles/AccelCompute.dir/MatrixAccel/main.cpp.o	45afd8bc2e5375aa
+124	160	1715014161142219349	AccelCompute	2d95d0c466e46b55
+0	139	1715014290926063264	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+139	183	1715014290970061933	AccelCompute	2d95d0c466e46b55
+1	137	1715014774709639048	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+1	152	1715014774725638692	CMakeFiles/AccelCompute.dir/MatrixAccel/main.cpp.o	45afd8bc2e5375aa
+152	188	1715014774757637975	AccelCompute	2d95d0c466e46b55
+0	136	1715014976557303563	CMakeFiles/AccelCompute.dir/MatrixAccel/Matrix.cpp.o	903f31ded5838a7d
+0	150	1715014976569303314	CMakeFiles/AccelCompute.dir/MatrixAccel/main.cpp.o	45afd8bc2e5375aa
+150	184	1715014976605302569	AccelCompute	2d95d0c466e46b55
